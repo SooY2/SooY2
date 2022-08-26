@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SooY2&layout=compact&theme=dracula)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sooy)](https://solved.ac/sooy)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
