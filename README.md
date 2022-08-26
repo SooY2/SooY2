@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![header](https://capsule-render.vercel.app/api?type=wave)
+![header](https://capsule-render.vercel.app/api?color=auto)
+
 <!--
 ![SooY2's GitHub stats](https://github-readme-stats.vercel.app/api?username=SooY2&show_icons=true&theme=dracula)
 -->
