@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![SooY's GitHub stats](https://github-readme-stats.vercel.app/api?username=SooY2&show_icons=true&theme=dracula)
+![SooY2's GitHub stats](https://github-readme-stats.vercel.app/api?username=SooY2&show_icons=true&theme=dracula)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sooy)](https://solved.ac/sooy)
